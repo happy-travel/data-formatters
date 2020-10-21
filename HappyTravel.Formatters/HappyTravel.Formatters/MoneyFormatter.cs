@@ -1,5 +1,5 @@
 using System.Globalization;
-using HappyTravel.Formatters.Enums;
+using HappyTravel.Money.Enums;
 
 namespace HappyTravel.Formatters
 {
