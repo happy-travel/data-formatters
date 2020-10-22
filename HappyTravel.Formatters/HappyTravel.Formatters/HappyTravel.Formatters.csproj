@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+        <Company>HappyTravel</Company>
+        <Authors>Hasmik Harutyunyan</Authors>
+        <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Version>1.0</Version>
+        <PackageReleaseNotes>Added existing formatters to separate lybrary.</PackageReleaseNotes>
+        <Description>Formatters</Description>
+        <PackageProjectUrl>https://github.com/happy-travel/kanazawa</PackageProjectUrl>
+        <RepositoryURL>https://github.com/happy-travel/kanazawa</RepositoryURL>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="HappyTravel.Money" Version="0.0.3.1" />
+      <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    </ItemGroup>
+
+</Project>
