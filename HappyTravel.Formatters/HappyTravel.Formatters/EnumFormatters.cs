@@ -5,6 +5,6 @@ namespace HappyTravel.Formatters
 {
     public static class EnumFormatters
     {
-        public static string FromEnumDescription<T>(T value) where T : Enum => EnumExtensions.ToDescriptionString(value);
+        public static string FromDescription<T>(T value) where T : Enum => EnumExtensions.ToDescriptionString(value);
     }
 }
