@@ -24,4 +24,4 @@ jobs:
       shell: bash
 
     - name: Push generated package to GitHub registry
-      run: nuget push ..\kanazawa\Happytravel.Formatters\bin\Release\*.nupkg -Source "GPR"
+      run: nuget push ..\kanazawa\HappyTravel.Formatters\bin\Release\*.nupkg -Source "GPR"
