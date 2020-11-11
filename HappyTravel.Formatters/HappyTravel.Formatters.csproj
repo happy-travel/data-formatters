@@ -9,8 +9,8 @@
         <Version>1.0</Version>
         <PackageReleaseNotes>Added existing formatters to separate lybrary.</PackageReleaseNotes>
         <Description>Formatters</Description>
-        <PackageProjectUrl>https://github.com/happy-travel/kanazawa</PackageProjectUrl>
-        <RepositoryURL>https://github.com/happy-travel/kanazawa</RepositoryURL>
+        <PackageProjectUrl>https://github.com/happy-travel/data-formatters</PackageProjectUrl>
+        <RepositoryURL>https://github.com/happy-travel/data-formatters</RepositoryURL>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
     </PropertyGroup>
 
