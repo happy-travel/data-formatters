@@ -6,8 +6,8 @@
         <Authors>Hasmik Harutyunyan</Authors>
         <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-        <Version>1.1.0</Version>
-        <PackageReleaseNotes>Added existing formatters to separate lybrary.</PackageReleaseNotes>
+        <Version>1.1.1</Version>
+        <PackageReleaseNotes>Added checking for null in PersonNameFormatters</PackageReleaseNotes>
         <Description>Formatters</Description>
         <PackageProjectUrl>https://github.com/happy-travel/data-formatters</PackageProjectUrl>
         <RepositoryURL>https://github.com/happy-travel/data-formatters</RepositoryURL>
